@@ -4,5 +4,5 @@
 * A Hello World Java project...
 * ... 
 ### Screen Shot 
-![My source](https://github.com/levantien2k4/hello-world/blob/main/images/Source.png)
+![My source](https://github.com/levantien2k4/hello-world/blob/main/images)
 ####   © lê-tiến 2022
